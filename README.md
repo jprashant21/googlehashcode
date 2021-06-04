@@ -1,4 +1,4 @@
-# googlehashcode
+# googlehashcode - Pizza Pieces optimization
 
 You are organizing a Hash Code hub and want to order pizza for your hub.
 In order to reduce food waste, your goal i s to order as many pizza slices as possible, but not more than the
